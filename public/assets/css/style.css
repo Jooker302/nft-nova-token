@@ -653,7 +653,7 @@ Sticky Menu
   border-radius: 50px;
   margin-right: 20px;
   border-top-right-radius: 0;
-  background-color: #ff00d6;
+  background-color: #250747;
 }
 
 .eight-banner-section .eight-banner-content .banner-content-box .ei-banner-btn a:nth-child(1) i {
@@ -665,7 +665,7 @@ Sticky Menu
 }
 
 .eight-banner-section .eight-banner-content .banner-content-box .ei-banner-btn a:nth-child(1):hover {
-  background-color: #009cff;
+  background-color: #733A83;
   border-top-right-radius: 50px;
   border-bottom-left-radius: 0px;
 }
