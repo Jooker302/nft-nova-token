@@ -580,7 +580,7 @@ theme.
 Sticky Menu
 -------------------------------- */
 .eisticky-menu-bg-overlay {
-  background-color: #9c00e2;
+  background-color: #733A83;
   animation-duration: 0.7s;
   animation-fill-mode: both;
   animation-name: fadeInDown;
@@ -602,9 +602,9 @@ Sticky Menu
 /*----------------------------------------------------*/
 .eight-banner-section {
   overflow: visible;
-  background: #6d8cf8;
+  background: #250747;
   padding: 170px 0px 250px;
-  background: linear-gradient(to right, #c12dd1, #6d8cf8);
+  background: linear-gradient(to right, #733A83, #250747);
 }
 
 .eight-banner-section:after {
@@ -766,8 +766,8 @@ Sticky Menu
   overflow: hidden;
   height: 100%;
   bottom: -1px;
-  background: #6d8cf8;
-  background: linear-gradient(to right, #c12dd1, #6d8cf8);
+  background: #250747;
+  background: linear-gradient(to right, #733A83, #250747);
 }
 
 .bgTop {
